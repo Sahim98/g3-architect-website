@@ -95,8 +95,10 @@ nav li a {
 }
 
 /* main section styles */
-main {
+main{
   max-width: 1440px;
+  margin: 85px auto;
+  
 }
 
 .teams-img {
@@ -107,7 +109,6 @@ main {
 
 .teams-container {
   display: flex;
-  margin-top: 85px;
   align-items: center;
 }
 
